@@ -52,7 +52,7 @@ i++
 }
 */
 
-/*          --- d. Arrendonda para cima ---*
+/*          --- e. Arrendonda para cima ---*
 let n = [1.2456, 2.46565, 3.55433, 4.75656, 5.87676];
 let i = 1;
 
